@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
+﻿using System.Windows;
 using Autofac;
 using Prism.Autofac;
-using Prism.Mvvm;
 using Prism.Regions;
 using PrismDataContextExample.ViewModels;
 using PrismDataContextExample.Views;
