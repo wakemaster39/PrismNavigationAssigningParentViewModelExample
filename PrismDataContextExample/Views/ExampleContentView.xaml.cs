@@ -10,7 +10,7 @@ namespace PrismDataContextExample.Views
         public ExampleContentView()
         {
             InitializeComponent();
-            DataContext = new object();
+//            DataContext = new object();
         }
     }
 }
